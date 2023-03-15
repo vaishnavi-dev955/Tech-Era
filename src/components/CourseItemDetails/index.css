@@ -1,0 +1,62 @@
+.Failure-container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-heading1 {
+  color: #475569;
+  font-size: 28px;
+  font-family: 'Roboto';
+}
+
+.failure-para1 {
+  color: #64748b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.Retry-button1 {
+  background-color: #4656a1;
+  height: 40px;
+  width: 150px;
+  color: #ffffff;
+  font-size: 18px;
+  border: 0px solid;
+  text-align: center;
+}
+
+.success-container {
+  background-color: #ffffff;
+  height: 300px;
+  width: 1000px;
+  display: flex;
+  margin: 70px;
+}
+
+.title1 {
+  color: #1e293b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.para1 {
+  color: #64748b;
+  font-size: 18px;
+  font-family: 'Roboto';
+  padding-left: 60px;
+}
+
+.image-style {
+  height: 300px;
+  width: 600px;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+.Header-Container {
+  background-color: #f1f5f9;
+  height: 13vh;
+  width: 100vw;
+}
+
+.webiste-logo {
+  height: 70px;
+  width: 120px;
+  padding-left: 30px;
+  padding-top: 15px;
+}

@@ -1,0 +1,20 @@
+.listItem {
+  display: flex;
+  background-color: #ffffff;
+  height: 70px;
+  width: 170px;
+  border: 0px solid;
+  margin: 10px;
+}
+
+.course-Image-style {
+  height: 40px;
+  width: 40px;
+}
+
+.course-heading {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
